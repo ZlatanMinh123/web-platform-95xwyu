@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+h2 {
+  background: orange;
+  position: sticky;
+  top: 0;
+}
+
+.chapter {
+  background: #ccc;
+  margin: 50px;
+  height: 600px;
+  overflow: auto;
+}
